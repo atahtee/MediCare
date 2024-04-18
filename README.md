@@ -20,10 +20,6 @@ MediCare is a Flutter application that helps users find hospitals near their loc
   <img src="./assets/images/image4.jpg" alt="Screenshot 4" width="45%" />
 </div>
 
-<div style="display: flex; justify-content: center;">
-  <img src="./assets/images/image1.jpg" alt="Screenshot 1" width="45%" />
-  <img src="./assets/images/image2.jpg" alt="Screenshot 2" width="45%" />
-</div>
 
 <div style="display: flex; justify-content: center;">
   <img src="./assets/images/image5.jpg" alt="Screenshot 3" width="45%" />
